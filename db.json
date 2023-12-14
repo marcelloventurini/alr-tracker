@@ -1,0 +1,32 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2023-12-15T09:00",
+      "fim": "2023-12-15T13:00",
+      "completo": false,
+      "id": 1642342747
+    },
+    {
+      "descricao": "Estudar TypeScript",
+      "inicio": "2023-12-16T09:00",
+      "fim": "2023-12-16T11:00",
+      "completo": false,
+      "id": 1642342959
+    },
+    {
+      "descricao": "Estudar Next",
+      "inicio": "2023-12-13T09:00",
+      "fim": "2023-12-13T11:00",
+      "completo": false,
+      "id": 1642375969
+    },
+    {
+      "descricao": "Estudar Hooks",
+      "inicio": "2023-12-14T09:00",
+      "fim": "2023-12-14T11:00",
+      "completo": false,
+      "id": 1346942969
+    }
+  ]
+}
